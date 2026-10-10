@@ -18,6 +18,9 @@ FOTA 自动化测试脚本 v2（多版本收敛测试）
 示例：
     python Fota_Test_v2.py GV58CG 1 --fw-path E:\\AutoTest\\FOTA\\GV58CG \
         --report-cmd "AT+GTBSI={server},{port}" --diff-out E:\\AutoTest\\FOTA\\diff
+
+
+        修改测试
 """
 
 import os
